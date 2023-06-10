@@ -10,7 +10,7 @@
     "gatsby": "../node_modules/.bin/gatsby"
   },
   "dependencies": {
-    "gatsby": "^2.19.7",
+    "gatsby": "^4.25.7",
     "gatsby-theme-blog": "^1.2.35",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
